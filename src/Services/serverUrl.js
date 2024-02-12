@@ -1,1 +1,1 @@
-export const SERVER_URL = "https://pf-app-server.onrender.com/"
+export const SERVER_URL = "https://pf-app-server.onrender.com"
